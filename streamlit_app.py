@@ -35,7 +35,7 @@ st.set_page_config(
 )
 
 # Main title
-st.title("📚 Spanish-English Dictionary")
+st.title("📚 Spanish-English Translator")
 
 # Create two columns for the main layout
 col1, col2 = st.columns([2, 1])
