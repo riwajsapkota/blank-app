@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Spanish to English translator app
 
 A simple Streamlit app to translate spanish to english
 
